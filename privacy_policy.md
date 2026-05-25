@@ -17,6 +17,14 @@ Gleam Puzzle **does not collect, store, or share any personal data**. The App:
 - Does not serve advertisements
 - All user data (puzzle records, app preferences) is stored **locally on your device only**
 
+### Data Security
+
+Since Gleam Puzzle does not collect any personal data, there is no data transmission to external servers. All data stored on your device is protected by the device's built-in security features. We do not process, share, or sell any user information.
+
+### Data Retention and Deletion
+
+All app data is stored locally on your device. You can delete all data at any time by clearing the app's data in your device settings or uninstalling the application. No data exists on any external servers.
+
 ### Third-Party Services
 
 The App does not integrate any third-party analytics, advertising, or social media services.
@@ -54,6 +62,14 @@ Gleam Puzzle **不会收集、存储或分享任何个人数据**。本 App：
 - 不使用分析 SDK 或追踪工具
 - 不投放广告
 - 所有用户数据（拼图记录、应用偏好）仅**存储在您的设备本地**
+
+### 数据安全
+
+由于 Gleam Puzzle 不收集任何个人数据，因此不存在向外部服务器的数据传输。存储在您设备上的所有数据均受到设备内置安全功能的保护。我们不会处理、共享或出售任何用户信息。
+
+### 数据保留与删除
+
+所有应用数据均存储在您的设备本地。您随时可以通过清除设备设置中的应用数据或卸载应用来删除所有数据。外部服务器上不存在任何数据。
 
 ### 第三方服务
 
